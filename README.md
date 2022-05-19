@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning, and Supply Chain Managament
 - 🌱 I’m currently student at University of Arizona
 - 💞️ I’m looking to collaborate on Deep Learning Project
-- 📫 How to reach me email: igedesusastragunawan@gmail.com
+- 📫 How to reach me email: susastra.gunawan@my.sampoernauniversity.ac.id
 
 <!---
 susastra-gunawan/susastra-gunawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
